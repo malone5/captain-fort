@@ -1,0 +1,76 @@
+{
+    "drop_zones": [
+        "Junk Junction",
+        "Anarchy Acres",
+        "Haunted Hills",
+        "Wailing Woods",
+        "Pleasant Park",
+        "Tomato Town",
+        "Loot Lake",
+        "Loot Lake, Middle Island",
+        "Lonely Lodge",
+        "Snobby Shores",
+        "Dusty Depot",
+        "Tilted Towers",
+        "Retail Row",
+        "Greasy Grove",
+        "Shifty Shafts",
+        "Salty Springs",
+        "Fatal Fields",
+        "Moisty Mire",
+        "Flush Factory",
+        "Lucky Landing",
+        "Section B2",
+        "Section C5",
+        "Section B2",
+        "Section D8",
+        "Section E6",
+        "Section J6",
+        "Section H8",
+        "Section D8",
+        "Section F6",
+        "Jump out of the party bus immediatly"
+    ],
+    "solo": [
+        "Only use Uncommon, Grey Weapons",
+        "No healing or sheilding yourself",
+        "You are only allowed one weapon in your inventory, other utility items are allowed",
+        "Gather 999 Wood before eliminating another player",
+        "Go straight to Tilted Towers. Have fun!",
+        "Shotguns Only",
+        "Pistols Only",
+        "Assult Rifles Only",
+        "Use only Green weapons or lower",
+        "Use only blue weapons or higher",
+        "Only collect loot located in attics",
+        "You are not allowed to open chests",
+        "You are only allowed to build ramps",
+        "Only build with brick",
+        "Stay on the edge of the storm the whole game",
+        "No sprinting",
+        "You can only enter houses through doors",
+        "Engage any enemy you see, regardless of distance",
+        "You can only fight when there are 20 players left",
+        "You must be the last one off the bus",
+        "You are only allowed to use the first weapon you pick up"
+    ],
+    "duo": [
+        "You and your teammate must alternate eliminating enemies",
+        "One of you start at Snobby Shores and the other at Lonely Lodge",
+        "You must stick together, side-by-side, the whole game",
+        "One of you can't shoot, the other can't build",
+        "Both of you should land on top of a mountain"
+    ],
+    "squad": [
+        "Buddy system! Your squad must split off into 2 pairs.",
+        "Birthday Gifts! Give all your weapons of Epic rarity or higher to whomever had the most recent birthday.",
+        "Protect the president! Elect one member as the president, if they die, exit the match immediatly. You lost.",
+        "Assign each squad member a single weapon type they can only use. Assault Rifle, Shotgun, Pistol, SMG, or Sniper",
+        "Each squad member must drop in a different location",
+        "Everyone follows the oldest squad member",
+        "Everyone follows the youngest squad member"
+        
+        
+        
+    ]
+}
